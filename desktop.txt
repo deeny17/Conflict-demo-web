@@ -1,6 +1,10 @@
 File created with desktop Gid. 
 
 
-added second line with Git desktop commit 
+<<<<<<< HEAD
+Line adde with Gitbash commit
 
-Add 5 line
+add 4 lines
+=======
+added second line with Git desktop commit 
+>>>>>>> 5b5e5719ac98c073a624b1c35183ee93c7317e76
